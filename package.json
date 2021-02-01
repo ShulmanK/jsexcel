@@ -1,0 +1,30 @@
+{
+  "name": "jsexcel",
+  "version": "1.0.0",
+  "description": "Pure JS Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShulmanK/jsexcel.git"
+  },
+  "keywords": [
+    "JS",
+    "javascript",
+    "excel"
+  ],
+  "author": "Kirill Shulman <shulman.k.y@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShulmanK/jsexcel/issues"
+  },
+  "homepage": "https://github.com/ShulmanK/jsexcel#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^5.19.0",
+    "webpack-cli": "^4.4.0"
+  }
+}
